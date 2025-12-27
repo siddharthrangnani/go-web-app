@@ -2,7 +2,7 @@ replicaCount: 1
 
 image:
   repository: rangnanisiddharth/go-web-app
-  tag: v1
+  tag: "20543834347"
   pullPolicy: IfNotPresent
 
 service:
